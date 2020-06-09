@@ -2,9 +2,11 @@
   >Language: C++
 
 ## Graphs: 
+#### Minimum Spanning Tree
 * [Kruskal's Algorithm](https://github.com/KhushiPrerak/Algorithms/blob/master/Kruskal's%20Algorithm.cpp)
-  > Minimum spanning tree |
+  > Union Find |
   > Time: O(ElogV)
+#### Shortest Path
 * [Bellman Ford Algorithm](https://github.com/KhushiPrerak/Algorithms/blob/master/Bellman%20Ford.cpp)
   > Single source shortest path and Negative weight cycle detection |
   > Time: O(E*V) 
