@@ -1,5 +1,5 @@
-# DS-Algo
-My implementation of some famous algorithms in C++. 
+# Algorithms
+  >Language: C++
 
 ## Graphs: 
 * [Kruskal's Algorithm](https://github.com/KhushiPrerak/DS-Algo/blob/master/Kruskal's%20Algorithm.cpp)
