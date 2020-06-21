@@ -1,5 +1,10 @@
 # Algorithms
   >Language: C++
+  
+## Searching and Sorting 
+* **[Heap Sort](https://github.com/KhushiPrerak/Algorithms/blob/master/Heap%20Sort.cpp)**
+  > Inplace Sorting | 
+  > Time: O(nLogn) 
 
 ## Graphs: 
 #### Minimum Spanning Tree
